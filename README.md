@@ -17,20 +17,6 @@ A curated open-source knowledge base for **CSE**, **AIML**, and problem-solving 
 
 ---
 
-## Table of Contents
-
-- [About](#about)
-- [Why This Repository](#why-this-repository)
-- [What You Will Find Here](#what-you-will-find-here)
-- [Core Topics](#core-topics)
-- [Learning Format](#learning-format)
-- [Repository Structure](#repository-structure)
-- [Learning Path](#learning-path)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Roadmap](#roadmap)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
