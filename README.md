@@ -1,6 +1,9 @@
 # AIML-Mathematical Toolkit
 
 > **From Equations to Intelligence — Master the Mathematics Behind Computer Science, AI, and Machine Learning.**
+>
+> <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/afb97de2-dbca-41ff-82c8-6b9837626c6f" />
+
 
 A curated open-source knowledge base for **CSE**, **AIML**, and problem-solving enthusiasts who want to build strong foundations in:
 
